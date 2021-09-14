@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  tsk-massros:
+  - apiVersion: v2
+    appVersion: 5.3.8-SNAPSHOT
+    created: "2021-09-14T14:18:09.0516524-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 57d161102885b8b760c64096d313a11958d1349a8041578bb2d7c5aa4e773bab
+    name: tsk-massros
+    type: application
+    urls:
+    - https://ulyzezhs.github.io/helm/tsk-massros-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-09-14T14:18:09.0466552-05:00"
